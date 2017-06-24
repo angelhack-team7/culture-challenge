@@ -1,0 +1,23 @@
+language: python
+python:
+  - "3.5"
+install:
+  # Install any dependencies required for building your site here.
+  # `awscli` is required for invalidation of CloudFront distributions.
+  - pip install awscli
+script:
+  # Build your site (e.g., HTML, CSS, JS) here.
+  #- make build
+  - echo "We can put normal shell commands here"
+  - echo "more shell commands here"
+deploy:
+  on:
+    branch: master
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  bucket: $AWS_BUCKET
+  skip_cleanup: true
+  region: us-west-1
+  acl: public_read
+
