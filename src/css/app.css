@@ -1,0 +1,207 @@
+#files {
+  visibility:hidden;
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #95989A;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+  color: #95989A;
+  margin-left: 55px;
+  margin-right: 55px;
+}
+
+.roboto-challengepage{
+  margin-left: 55px; color: #555758;
+}
+
+.mont-challengepage, .opensans-challengepage {
+  margin-left: 55px; margin-right: 55px;
+}
+
+.mont {
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 55px;
+   margin-right: 55px;
+  font-weight: 300;
+  color: #C3C4C4;
+  font-size: 19px;
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+  margin-left: 55px;
+   margin-right: 55px;
+  font-weight: 700;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  background-color:#FED642;
+}
+
+.bg-1 {
+
+  background-color: #4CB8C4;
+  background-image:
+    linear-gradient(
+      to right,
+      #4CB8C4, #EAECC6
+    );
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.img-challenge {
+  width: 250px;
+  margin-top: -40px;
+  margin-bottom: 30px;
+}
+
+.center-block {
+  text-align: center;
+}
+
+.fb-btn {
+  background-color: #556891; color: white; cursor:pointer;
+}
+
+.invite {
+  font-size: 18px;
+}
+
+.navbar-inverse {
+  background-color: #FED642 !important;
+  border-color: #FED642 !important;
+
+}
+
+.navbar-inverse a {
+  background-color: #FED642;
+}
+
+.public-challenges, .cancel {
+  margin-top: 15px;
+}
+
+.btn-send {
+  width: 275px;
+  background-color:#FD7BA4;
+  color: white;
+}
+
+.add-people {
+  color:#95989A;
+  text-align: center;
+}
+
+.culture-bg, .home-culture{
+  color: white;
+   text-align: center;
+}
+
+.new-challenge {
+  color:#95989A;
+}
+
+.new-ch-input {
+  width: 275px;
+   margin: 0 auto;
+   margin-top:10px;
+}
+
+.find-challenge {
+  color:#67C0C4;
+}
+
+.icon-5-create {
+  width: 100%; height:auto; margin-top: 10px;
+}
+
+.purpose {
+  color:#95989A;text-align: center;
+}
+
+.textarea-create {
+  width: 275px; height: 100px; margin: 0 auto; margin-top:10px;
+}
+
+.guidelines-create {
+  color:#95989A;text-align: center;
+}
+.ivan-file-photo {
+  border: 1px solid lightgrey;width: 275px;margin:0 auto;margin-top: 10px;
+}
+
+.img3 {
+  margin-top: 10px;
+}
+
+.upload-create {
+  width: 275px;
+}
+
+.padding-0 {
+  padding:0;
+}
+
+.created-by {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.font400 {
+  font-weight:400;
+}
+
+.icon8 {
+  margin:0 auto;
+}
+
+.roboto-challenge1{
+  margin-left: 25px;
+   margin-right: 100px;
+   color: #555758;
+}
+
+.roboto-challenge1-description {
+  color:#95989A;
+   font-size: 20px;
+    margin-left: 25px;
+     margin-top: 10px;
+}
+
+.mont-challenge2{
+  color:#95989A;
+  margin-left: 25px;
+   margin-top: 10px;
+}
+
+.challenged-by {
+  color:#95989A;
+  margin-left: 25px;
+   margin-top: 10px;
+}
+
+.mont-challenge2-description {
+  color:#FD7BA4;
+  margin-left: 25px;
+}
+
+.mont-purpose {
+  color:#95989A;margin-left: 25px; margin-right: 100px;
+}
+
+.reviews, .tips {
+  margin-left: 25px; margin-right: 80px; margin-top: 10px;
+}

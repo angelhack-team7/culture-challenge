@@ -1,0 +1,81 @@
+[
+{
+  "name": "Barber Shop Challenge",
+  "timeLimit": 1498917600,
+  "location": "West Sacramento, CA",
+  "geolocation": [38.5805, -121.5302],
+  "purpose": "To get a better understanding of stuff",
+  "sourceUser": "Hugh Mann",
+  "targetUser": "Ivan Villa",
+  "public": false,
+  "description": "Go to this one barbershop I like.",
+  "image": "https://resizing.flixster.com/o5EeJzgM59OnyfqLecSKxorWMx0=/300x300/v1.aDsxMDU3NDtqOzE3MzcwOzEyMDA7NzAwOzQ2Nw",
+  "completionImage": "https://resizing.flixster.com/o5EeJzgM59OnyfqLecSKxorWMx0=/300x300/v1.aDsxMDU3NDtqOzE3MzcwOzEyMDA7NzAwOzQ2Nw"
+},
+{
+  "name": "Square Dancing",
+  "timeLimit": 1428917600,
+  "location": "Winters, CA",
+  "geolocation": [38.5201799, -121.9952926],
+  "purpose": "Understand Souther Culture",
+  "sourceUser": "Tom Hanks",
+  "targetUser": "Jimmy Bobby",
+  "public": true,
+  "description": "They have square dancing classes every tuesday at the town hall",
+  "image": "https://www.fayettevilleflyer.com/wp-content/uploads/2015/08/squaredance4.jpg?x46173",
+  "completionImage": "http://adventuremomblog.com/wp-content/uploads/2012/04/photo-81-e1334974701614.jpg"
+},
+{
+  "name": "go see a k-pop concert",
+  "timeLimit": 0428917600,
+  "location": "Sacramento, CA",
+  "geolocation": [38.5201799, -121.9952926],
+  "purpose": "Listen to a music other than your own",
+  "sourceUser": "Steven Lin",
+  "targetUser": "gary blueness",
+  "Public": true,
+  "description": "There is a concert coming up next week, i would like us both to go",
+  "image": "https://19818-presscdn-pagely.netdna-ssl.com/wp-content/uploads/098/f9/620c8deb84d30dc96b80e6bb53400b09.jpg",
+  "completionImage": "https://studyabroadfollowyourdreams.files.wordpress.com/2015/08/suju-concert.jpg"
+},
+{
+  "name": "Nascar Race",
+  "timeLimit": 1498917600,
+  "location": "Sonoma, CA",
+  "geolocation": [38.5805, 121.5302],
+  "purpose": "To get a better understanding of NASCAR culture",
+  "sourceUser": "Ricky Bobby",
+  "targetUser": "Miguel Rivera",
+  "public": false,
+  "description": "Go see an auto race at the track",
+  "image": "http://img.huffingtonpost.com/asset/scalefit_720_noupscale/567181ad1600002c00eb8f25.jpeg",
+  "completionImage": "https://static.nascar.com/content/dam/nascar/articles/2015/7/21/selfie-gallery/selfie-stick-daytona.jpg/jcr:content/renditions/original"
+},
+{
+  "name": "Lord of the Dance",
+  "timeLimit": 1498917600,
+  "location": "Dublin, Ireland",
+  "geolocation": [38.5805, -121.5302],
+  "purpose": "To learn about traditional Irish dancing",
+  "sourceUser": "Michael Flatley",
+  "targetUser": "Zap Brannigan",
+  "public": false,
+  "description": "Become the lord of the dance",
+  "image": "https://kpbs.media.clients.ellingtoncms.com/img/events/2016/lorddance.jpg",
+  "completionImage": "https://www.vettix.org/images/events/29267img1.jpg"
+},
+{
+  "name": "Try Lumpia",
+  "timeLimit": 1498917600,
+  "location": "South Sacramento",
+  "geolocation": [38.5805, -121.5302],
+  "purpose": "To learn more about filipino cuisine",
+  "sourceUser": "Steven Ancheta",
+  "targetUser": "Robert Paul",
+  "public": false,
+  "description": "Yo, try these",
+  "image": "http://barefeet.ogbeta.com/wp-content/uploads/2016/09/lumpia1.jpg",
+  "completionImage": "http://barefeet.ogbeta.com/wp-content/uploads/2016/09/lumpia1.jpg"
+}
+ 
+]

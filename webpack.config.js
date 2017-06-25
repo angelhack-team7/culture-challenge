@@ -55,13 +55,13 @@ module.exports = {
 			{ test: /\.(png|jpg)$/, loader: 'url-loader'}
 		]
 	},
-	/*resolve: {
+	resolve: {
 		extensions: ['', '.js', '.jsx'],
 		 alias: {
 			'react$': path.join(__dirname, 'node_modules', 'react','dist','react.min.js'),
 			'react-dom$': path.join(__dirname, 'node_modules', 'react-dom','dist','react-dom.min.js')
 		}
-	},*/
+	},
 	// needed to make request-promise work
 	node: {
 		net: 'empty',
