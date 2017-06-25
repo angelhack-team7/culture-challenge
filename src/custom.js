@@ -20,7 +20,7 @@ function loadFB(){
         FB.ui({
           display: 'popup',
           method: 'share',
-          href: 'https://codepen.io/hellothisisrob/pen/zzEvBJ?editors=1100',
+          href: 'http://angelhack-team7.s3-website-us-west-1.amazonaws.com/#/create',
         }, function(response){});
       }
       FB.AppEvents.logPageView();
