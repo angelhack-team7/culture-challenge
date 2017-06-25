@@ -4,7 +4,7 @@ import {} from '../css/app.css';
 import rp from 'request-promise';
 // import $ from 'jquery';
 
-const App = React.createClass({
+const HomePage = React.createClass({
 
   getInitialState: function() {
       return {
@@ -15,11 +15,13 @@ const App = React.createClass({
   render() {
     return (
       <div>
-        {this.props.children}
+        <h1>Hello!</h1>
+        <button type="button" className="btn btn-primary">Submit</button>
+
       </div>
     );
   },
 
 });
 
-export default App;
+export default HomePage;
